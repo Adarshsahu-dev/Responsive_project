@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #fcbf49;
+    background-image: url("Backgroundimg.png");
     font-family: Arial, sans-serif;
     text-align: center;
     min-height: 100vh;
@@ -78,4 +78,5 @@ h1 {
     #msg {
         font-size: 1.3rem;
     }
+
 }
